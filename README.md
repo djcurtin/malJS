@@ -1,0 +1,2 @@
+# malJS
+Testing CSP restrictions
